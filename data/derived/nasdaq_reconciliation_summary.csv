@@ -1,0 +1,15 @@
+key,value
+n_sessions_both,550
+n_store_only,1
+n_yahoo_only,1
+store_only_dates,2025-01-09
+yahoo_only_dates,2025-04-28
+pct_exact,91.8182
+median_abs_rel_error_pct,0.0
+pct_within_0_1pct,97.2727
+n_mismatch,45
+n_half_cent_yahoo_closes,20
+first_date,2024-01-19
+last_date,2026-03-31
+fetched_on,2026-10-30
+yahoo_rows,551

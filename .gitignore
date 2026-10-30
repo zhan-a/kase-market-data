@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.lock
+
+# The 1-minute bar store and the daily companion are not redistributed; see
+# data/README.md. The fetchers recreate them locally at these paths, or under
+# the directory named by KASE_STORE / KASE_DAILY.
+data/kase/intraday/
+data/kase/intraday
+data/kase/daily/
+data/kase/daily
+data/nasdaq/intraday/
+data/nasdaq/intraday
+*.parquet
+*.db
+
+# Output locations of the recorders and of fetch_kase_history.py, if run from
+# this tree. Board recordings are KASE exchange information (data/README.md).
+data/kase/raw/
+data/kase/v2/
+data/historical/
+
+# Local scratch
+scratch/
+out/
+
+# State and output the recorders write beside themselves when run from this
+# tree.
+src/recorders/recorder_state.json
+src/recorders/quote_probe_*.csv

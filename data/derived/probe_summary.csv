@@ -1,0 +1,7 @@
+code,polls,first_time,last_time,median_spacing_s,distinct_bid,distinct_ask,distinct_last,distinct_high,distinct_low,distinct_dealcnt,distinct_volkzt,distinct_last_deal_date,last_deal_date
+AIRA,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:29:08
+HSBK,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:29:41
+KCEL,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:29:32
+KEGC,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:13:26
+KSPI,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:25:15
+KZAP,126,10:50:23,11:54:17,30.0,1,1,1,1,1,1,1,1,2026-08-24T17:12:39

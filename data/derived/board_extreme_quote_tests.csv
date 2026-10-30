@@ -1,0 +1,12 @@
+test,within_payload_pct,within_payload_n,store_aligned_pct,store_aligned_n
+bid_ge_high,89.3664,2257,93.5869,1341
+bid_eq_high,51.1741,2257,39.5227,1341
+bid_gt_high,38.1923,2257,54.0641,1341
+ask_le_low,87.4612,2257,95.3766,1341
+ask_eq_low,51.883,2257,40.2685,1341
+ask_lt_low,35.5782,2257,55.1081,1341
+both_contain,79.6633,2257,90.3057,1341
+width_ge_range,84.0939,2257,92.692,1341
+bid_lt_high,10.6336,2257,6.4131,1341
+ask_gt_low,12.5388,2257,4.6234,1341
+spearman_width_range,0.9076,2257,0.9066,1341

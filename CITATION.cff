@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata below.
+title: "KASE market data: minute-bar acquisition and board-feed provenance"
+abstract: >-
+  Acquisition code for a 1-minute bar store of Kazakhstan Stock Exchange (KASE)
+  instruments from a retail broker's chart-data endpoint, with the seven response
+  defects that corrupt a naive fetch, including a timestamp frame that a
+  constant UTC offset gets wrong across Almaty's 2024 time-zone change; a daily
+  companion fetcher; recorders for KASE's trade-results board; and an
+  identification of that board's quote-labelled fields from a recording made
+  between April and August 2026. The bars and the board recordings are not redistributed;
+  data/README.md describes the sources and the derived tables that are.
+type: software
+authors:
+  - given-names: Zhan
+    family-names: Amankeldy
+repository-code: "https://github.com/zhan-a/kase-market-data"
+license: MIT
+date-released: "2026-10-30"
+keywords:
+  - market data
+  - market microstructure
+  - data provenance
+  - emerging markets
+  - reproducibility
